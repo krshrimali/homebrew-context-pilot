@@ -2,7 +2,7 @@
 
 ## How do I install these formulae?
 
-`brew install krshrimali/context-pilot/v0.5`
+`brew install krshrimali/context-pilot/context-pilot`
 
 Or `brew tap krshrimali/context-pilot` and then `brew install v0.5`.
 
@@ -10,7 +10,7 @@ Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "krshrimali/context-pilot"
-brew "v0.5"
+brew "context-pilot"
 ```
 
 ## Documentation
