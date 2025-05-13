@@ -12,6 +12,6 @@ class ContextPilot < Formula
   end
 
   test do
-    system "#{bin}/context_pilot", "--help"
+    system "#{bin}/contextpilot", "--help"
   end
 end
