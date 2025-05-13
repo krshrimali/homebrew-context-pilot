@@ -1,8 +1,8 @@
 class ContextPilot < Formula
   desc "Get Context at your code cursor!"
   homepage "https://github.com/krshrimali/context-pilot-rs"
-  url "https://github.com/krshrimali/context-pilot-rs/archive/refs/tags/v0.0.6.tar.gz"
-  sha256 "a726f415bb1db55c389996c338fb6d232186484ac44750d4a6abc29584243c65"
+  url "https://github.com/krshrimali/context-pilot-rs/archive/refs/tags/v0.0.7.tar.gz"
+  sha256 "de2a11f5d16a4820bd7b5810a39736c9d5d14352bf9f77bbf829f0e496eab228"
   license "MIT"
 
   depends_on "rust" => :build
