@@ -4,8 +4,6 @@
 
 `brew install krshrimali/context-pilot/context-pilot`
 
-Or `brew tap krshrimali/context-pilot` and then `brew install v0.5`.
-
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
